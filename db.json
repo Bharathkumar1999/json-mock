@@ -1738,7 +1738,127 @@
       "rating": 5,
       "quantity": 1
       }
+      ],
+
+    "account":[
+
+    ],
+    "items": [
+      {
+      "id": 1,
+      "title": "Revenue",
+      "percentage": "↓10",
+      "color": "red",
+      "count": "$2.047",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Eo_circle_orange_white_arrow-up-right.svg/768px-Eo_circle_orange_white_arrow-up-right.svg.png?20200417162144"
+      
+      },
+      {
+      "id": 2,
+      "title": "Orders",
+      "percentage": "↑20",
+      "color": "green",
+      "count": 356,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlFLpWbZT3lulbeO55bsoHPbws2ifDAAiGBGwgJKs3phIc0SEb"
+      
+      },
+      {
+      "id": 3,
+      "title": "Dine In",
+      "percentage": "↑10",
+      "color": "green",
+      "count": 220,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTylhgDgG4S7QsRSy9GYZP3UhMpWtlQAduB4Gy_Ydig3pUUYUq"
+      
+      },
+      {
+      "id": 4,
+      "title": "Take Away",
+      "percentage": "↓5",
+      "color": "red",
+      "count": 135,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpvSefsto6IcZvIONvkIQWgIbRVeKOh17iwJBv92YS52UJRaJ"
+      
+      }
+    ],
+    "courses": [
+        {
+        "id": 1,
+        "title": "Basic Algorithm",
+        "lessons": "25 Lessons",
+        "date": "27 Jan,2023",
+        "completed": "10/25 (48%)",
+        "duration": "14h 38m 56s",
+        "image": "https://uxwing.com/wp-content/themes/uxwing/download/internet-network-technology/research-and-development-icon.svg"
+        },
+        {
+            "id": 2,
+            "title": "Web Development",
+            "lessons": "45 Lessons",
+            "date": "23 Feb,2023",
+            "completed": "40/45 (97%)",
+            "duration": "36h 30m 00s",
+            "image": "https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/website-icon.svg"
+            },
+            {
+                "id": 3,
+                "title": "Basic Data Science",
+                "lessons": "37 Lessons",
+                "date": "14 Jan,2023",
+                "completed": "9/37 (40%)",
+                "duration": "37h 00m 00s",
+                "image": "https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/database-download-icon.svg"
+                },
+                {
+                    "id": 4,
+                    "title": "UI/UX Design",
+                    "lessons": "32 Lessons",
+                    "date": "19 Feb,2023",
+                    "completed": "26/32 (84%)",
+                    "duration": "16h 40m 50s",
+                    "image": "https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/programmer-computer-icon.svg"
+                    },
+                    {
+                        "id": 5,
+                        "title": "Project Management",
+                        "lessons": "19 Lessons",
+                        "date": "27 Jan,2023",
+                        "completed": "14/19 (89%)",
+                        "duration": "13h 20m 00s",
+                        "image": "https://cdn-icons-png.flaticon.com/512/7656/7656482.png"
+                        }    
+      ],
+      "transactions":[
+        {
+            "id": 1,
+            "name": "Aokiji",
+            "date": "28 Feb 2023 . 06:23 PM",
+            "color": "green",
+            "price": "+$13.00",
+            "status": "Received",
+            "image": "https://bit.ly/kent-c-dodds"
+            },
+            {
+                "id": 2,
+                "name": "Kizaru",
+                "date": "28 Feb 2023 . 06:23 PM",
+                "color": "red",
+                "price": "-$9.00",
+                "status": "Outgoing",
+                "image": "https://bit.ly/kent-c-dodds"
+            },
+            {
+                "id": 3,
+                "name": "Akainu",
+                "date": "28 Feb 2023 . 06:23 PM",
+                "color": "green",
+                "price": "+$20.00",
+                "status": "Received",
+                "image": "https://bit.ly/kent-c-dodds"
+            }
+
       ]
+  
     
   }
   
